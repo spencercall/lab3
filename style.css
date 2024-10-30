@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    font-family: Calibri, sans-serif;
+    margin: 10%;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
